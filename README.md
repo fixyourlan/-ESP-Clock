@@ -1,2 +1,2 @@
-# -ESP-Clock
-First gethub for my new Internet clock display built with a ESP8266
+# ESP-Clock
+NTP enabled Digital Clock using a Seven-Segment Display and a ESP8266 Dev Board.
